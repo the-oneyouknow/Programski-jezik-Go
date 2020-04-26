@@ -1,2 +1,4 @@
-# Programski-jezik-Go
-FER: Go programming language (AY 2019/20)
+# [Programski jezik Go](https://www.github.com/studosi-fer/RPPZWIPU)
+[<- Stranica predmeta](https://www.fer.unizg.hr/predmet/pjg)
+
+[<- Povratak na listu predmeta](https://www.github.com/studosi/FER)
